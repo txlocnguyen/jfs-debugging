@@ -13,7 +13,6 @@ public class Main {
         System.out.println(studentOne.getEmail());
         System.out.println(studentOne.getDob());
         System.out.println(studentOne.getGpa());
-
     }
 
 

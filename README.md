@@ -1,5 +1,5 @@
-# jfs-debugging
-
+# <a href="https://github.com/txlocnguyen/jfs-debugging/tree/main/src/com/jfs">jfs-debugging</a>
+Finished. View code <a href="https://github.com/txlocnguyen/jfs-debugging/tree/main/src/com/jfs">here</a><br/>
 Lesson on Java Debugging
 ## Directions to Clone and load in IntelliJ
 
